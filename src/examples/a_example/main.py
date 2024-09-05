@@ -1,11 +1,12 @@
-import devprocess
+import input_process_output
 
 def main():
-    value1 = input("Enter value 1")
-    value2 = input("Enter value 2")
+    value1 = int(input("Enter value1: "))
+    value2 = int(input("Enter value2: "))
 
-    result = devprocess.add_numbers(int(value1), int(value2)) #create the result variable and store the return value of 5, 3 in add_numbers
-    print(result)
+    result1 = input_process_output.float_division(value1), (value2)
+    result2 = input_process_output.integer_division(value1), (value2)
+                                                
+    print(result1, result2)
 
-
-main()#run the main function which calls/uses the add_numbers function thats in devprocess.py file   
+main() #run the main function
