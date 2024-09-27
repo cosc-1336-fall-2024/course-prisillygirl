@@ -1,4 +1,4 @@
-import repetition
+import value_return
 def main():
-    repetition.run_menu()
+    ()
 main()

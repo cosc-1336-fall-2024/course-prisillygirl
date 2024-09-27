@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
-        "./src/examples/b_input_proc_output"
+        "./src/examples/b_input_proc_output",
+        "./src/examples/e_functions/value_return_",
+        "./src/examples/e_functions/value_return_",
+        "./src/examples/e_functions"
     ]
 }
