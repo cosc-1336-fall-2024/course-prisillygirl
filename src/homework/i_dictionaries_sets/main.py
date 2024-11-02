@@ -41,7 +41,5 @@ def run_menu():
             exit()
 
         else:
-            print("INVALID\nPlease select 1 or 2" )
-
 
 run_menu()

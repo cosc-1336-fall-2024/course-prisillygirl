@@ -3,6 +3,8 @@
         "./src/examples/b_input_proc_output",
         "./src/examples/e_functions/value_return_",
         "./src/examples/e_functions/value_return_",
-        "./src/examples/e_functions"
+        "./src/examples/e_functions",
+        "./src/examples/g_lists_and_tuples",
+        "./src/examples/g_lists_and_tuples"
     ]
 }
